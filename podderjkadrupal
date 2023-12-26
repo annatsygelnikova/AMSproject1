@@ -65,4 +65,23 @@
                     </div>
                 </div>
             </div>
-        
+            <div class="table-row desktop-flex">
+                <div class="table-item" id="item-5">
+                    <div class="item-logo">
+                        <img src="img/support5.svg" alt="support5">
+                    </div>
+                    <div class="item-id">
+                        05.
+                    </div>
+                    <div class="item-header">
+                        Удобные способы оплаты
+                    </div>
+                    <div class="item-text">
+                        Безналичный расчет по договору или электронные деньги:
+                        WebMoney, Яндекс.Деньги, Paypal.
+                    </div>
+                </div>
+                <div class="table-item" id="item-6">
+                    <div class="item-logo">
+                        <img src="img/support6.svg" alt="support6">
+                    </div>
