@@ -23,4 +23,15 @@
                     <div class="item-logo">
                         <img src="img/support2.svg" alt="support2">
                     </div>
+                    <div class="item-id">
+                        02.
+                    </div>
+                    <div class="item-header">
+                        Система Helpdesk - отчетность, прозрачность
+                    </div>
+                    <div class="item-text">
+                        Возможность посмотреть все заявки в работе
+                        и отработанные часы в личном кабинете через браузер.
+                    </div>
+                </div>
         
