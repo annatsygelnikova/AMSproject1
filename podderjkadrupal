@@ -85,3 +85,18 @@
                     <div class="item-logo">
                         <img src="img/support6.svg" alt="support6">
                     </div>
+                    <div class="item-id">
+                        06.
+                    </div>
+                    <div class="item-header">
+                        Работаем с SLA и NDA
+                    </div>
+                    <div class="item-text">
+                        Работа в рамках соглашений о конфиденциальности и
+                        об уровне качества работ.
+                    </div>
+                </div>
+                <div class="table-item" id="item-7">
+                    <div class="item-logo">
+                        <img src="img/support7.svg" alt="support7">
+                    </div>
