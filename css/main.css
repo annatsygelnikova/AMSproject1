@@ -150,6 +150,52 @@ header{
     border-radius: 4px;
     color: #ffffff;
 }
+.main-btn button:hover{
+    background-color: #f14d34;
+    color: white;
+    transition: 100ms;
+}
+
+.main-specs{
+    margin: 0 auto;
+}
+
+.main-spec{
+    padding-left: 1rem;
+    width: 200px;
+    height: 100px;
+    border-left: 3px solid #f14d34;
+    margin: 10px;
+}
+
+.main-spec h1{
+    font-family: Montserrat-Bold;
+    margin: 0;
+}
+
+.main-spec h2{
+    font-family: Montserrat-Bold;
+    margin: 0;
+}
+
+.main-spec img{
+    position: relative;
+    top: -6px;
+}
+
+.main-spec p{
+    font-size: 11px;
+    opacity: 0.8;
+    margin: 0;
+}
+
+#video {
+    filter: brightness(30%);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
 
 
 
