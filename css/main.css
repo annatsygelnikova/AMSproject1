@@ -210,6 +210,41 @@ header{
     margin-bottom: 25px;
     font-family: Montserrat-Bold; 
 }
+.years13 .figures{
+    display:flex;
+    justify-content: flex-start;
+    margin-top: 60px;
+    flex-wrap: wrap; /* разрешить переход на новую строку */
+}
+
+.years13 figure{
+    background-image: url(../img/Vector.png);
+    background-position: 10% 8%;
+    background-repeat: no-repeat;
+    width: 20%;
+    text-align: center;
+    margin: 0;
+    margin-right: 5%;
+}
+
+.years13 figcaption{
+    text-align: left;
+    font-size: 18px;
+    padding-left: 12px;
+    width: 100%;
+}
+
+.years13 figure img{
+    width: 40%;
+}
+
+.years13 h3 {
+    background-color: white;
+    color: #4f5a73;
+    font-size: 18px;
+    font-family: Montserrat;
+}
+
 
 
 
