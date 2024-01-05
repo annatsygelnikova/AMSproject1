@@ -283,7 +283,24 @@ header{
     width: 80px;
     border-radius: 5px;
 }
+.item-id{
+    font-size: 10px;
+    font-family: Montserrat-Bold;
+    color: gray;
+    margin-bottom: 1rem;
+}
 
+.item-header{
+    font-size: 20px;
+    font-family: Montserrat-Bold;
+    margin-bottom: 1rem;
+}
+
+.item-text{
+    color:gray;
+    font-size: 20px;
+    z-index: 10;
+}
 
 
 
