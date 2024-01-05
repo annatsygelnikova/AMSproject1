@@ -244,7 +244,44 @@ header{
     font-size: 18px;
     font-family: Montserrat;
 }
+/* block2 */
 
+#block2{
+    margin-bottom: 0;
+    height: 750px;
+    position: relative;
+    z-index: 1;
+}
+
+.table-4x2{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.table-item{
+    border-radius: 5px;
+    width: 260px;
+    height: 290px;
+    margin: 4px;
+    background-color: white;
+    box-shadow: 100px 50px 100px rgba(0, 0, 0, 0.04); /* Параметры тени */
+    padding: 14px;
+    z-index: 0;
+}
+
+.item-logo{
+    height: 0px;
+    position: relative;
+    left: 193px;
+    top: 224px;
+    z-index: -1;
+}
+
+.item-logo img{
+    height: 80px;
+    width: 80px;
+    border-radius: 5px;
+}
 
 
 
