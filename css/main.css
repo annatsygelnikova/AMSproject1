@@ -107,5 +107,50 @@ header{
 .menu:hover .menu-links {
     display: block;
 }
+/* block0 */
+
+#block0{
+    color: white;
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    z-index: -100;
+}
+
+.main{
+    position: absolute;
+    top:0;
+    left:5%;
+    height: 100%;
+    z-index: 5;
+}
+
+.drupal-main {
+    margin: 2rem auto;
+    font-size:75%;
+}
+
+.drupal-main h1{
+    font-family: Montserrat-Bold;
+    font-size: 24px;
+}
+
+.main-btn{
+    margin: 2rem 0;
+    width: fit-content;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.main-btn button{
+    width: 15rem;
+    height: 3rem;
+    border: 2px solid #f14d34;
+    background-color: transparent;
+    border-radius: 4px;
+    color: #ffffff;
+}
+
+
 
 
