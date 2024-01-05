@@ -301,7 +301,14 @@ header{
     font-size: 20px;
     z-index: 10;
 }
-/*часть Софы всё*/
+/* block3 */
 
+#block3 .mx-2 {
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+#block3{
+    position: relative;
 
 
